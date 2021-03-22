@@ -5,7 +5,8 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 echo "raja"
-                echo "filoe/"            }
+                echo "filoe/"   
+           }
         }
     }
 }
